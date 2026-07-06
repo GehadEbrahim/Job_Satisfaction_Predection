@@ -15,10 +15,6 @@ __pycache__/
 data/*
 !data/.gitkeep
 
-# Models (optional: uncomment if trained models are large)
-# models/*
-# !models/.gitkeep
-
 # OS / editor files
 .DS_Store
 Thumbs.db
