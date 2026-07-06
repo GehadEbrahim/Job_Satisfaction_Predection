@@ -1,6 +1,6 @@
 # Job Satisfaction Prediction — Stack Overflow Developer Survey
 
-A machine learning project that predicts developer job satisfaction using responses from the Stack Overflow Developer Survey. The project covers the full pipeline from raw survey data to a trained predictive model, including extensive data cleaning, feature engineering, and feature selection.
+The project covers the full machine learning pipeline, including data cleaning, preprocessing, feature engineering, feature selection, model training, and evaluation. Trained model files are not included in this repository.
 
 ## Team & Role
 
