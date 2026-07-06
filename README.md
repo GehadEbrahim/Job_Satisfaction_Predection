@@ -16,7 +16,6 @@ This project was built collaboratively as a team project.
 ```
 JobSatisfaction/
 ├── data/                      # Raw/processed survey data (not included, see Data section)
-├── models/                    # Saved trained models
 ├── notebooks/
 │   └── preprocessing.ipynb    # Exploratory preprocessing notebook
 ├── src/
